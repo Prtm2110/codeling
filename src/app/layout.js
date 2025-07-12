@@ -12,8 +12,8 @@ const geistMono = Geist_Mono({
 })
 
 export const metadata = {
-  title: 'HackSpace',
-  description: 'HackSpace: Your AI-Powered Coding Playground',
+  title: 'codeling',
+  description: 'codeling: Your AI-Powered Coding Playground',
 }
 
 export default function RootLayout({ children }) {

@@ -1,8 +1,8 @@
-# 💻 HackSpace – Real-Time Collaborative Code Editor
+# 💻 codeling – Real-Time Collaborative Code Editor
 
-HackSpace is a **real-time collaborative coding platform** built to help developers, students, and teams code together efficiently. With support for live cursors, syntax highlighting, chat, and AI-powered assistance, it redefines remote programming collaboration.
+codeling is a **real-time collaborative coding platform** built to help developers, students, and teams code together efficiently. With support for live cursors, syntax highlighting, chat, and AI-powered assistance, it redefines remote programming collaboration.
 
-Whether you're building side-by-side with your teammates, teaching a coding session, or pair programming, HackSpace makes it feel like you're in the same room.
+Whether you're building side-by-side with your teammates, teaching a coding session, or pair programming, codeling makes it feel like you're in the same room.
 
 ---
 

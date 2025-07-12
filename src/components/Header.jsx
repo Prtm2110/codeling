@@ -60,7 +60,7 @@ const Header = ({ workspaceId }) => {
       {/* Title with Neon Glow Effect */}
       <Link href="/" >
       <h1 className="text-3xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-red-400 to-red-600 drop-shadow-lg">
-        HackSpace
+        codeling
       </h1>
       </Link>
 
